@@ -1,2 +1,3 @@
 # button-styles-generator
-Project created in 2021
+ CSS button styles generator, created with HTML, CSS y jQery + Webpack
+ Try it here: https://buttongen.edeptec.com/
