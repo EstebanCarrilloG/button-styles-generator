@@ -16,7 +16,7 @@ The **Button Styles Generator** is a user-friendly web application that empowers
 - **Responsive Design:** The Button Styles Generator is designed to work seamlessly on a variety of devices and screen sizes, ensuring a consistent user experience for everyone.
 ## Preview
 
-[Button styles generator preview](https://raw.github.com/EstebanCarrilloG/button-styles-generator/main/assets/button-styles-generator-preview.jpg)
+![Button styles generator preview](https://raw.github.com/EstebanCarrilloG/button-styles-generator/main/assets/button-styles-generator-preview.jpg)
 
 ## Getting Started
 
